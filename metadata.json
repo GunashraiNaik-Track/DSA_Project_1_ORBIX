@@ -1,0 +1,6 @@
+{
+  "name": "ORBIX-Chanakya University",
+  "description": "A student networking and project-sharing platform for Chanakya University built on an in-memory Python graph, trie, heap, queue, and hash table engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
